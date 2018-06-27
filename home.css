@@ -67,6 +67,7 @@ body {
 a {
     color: #02B3A4;
     font-weight: bold;
+    font-size: 18px;
 }
 
 a:hover {
