@@ -36861,7 +36861,7 @@
             };
             // Pops open the configure page
             RevertFilters.prototype.configure = function() {
-                var popupUrl = window.location.origin + "Revert-Filters/#/config";
+                var popupUrl = window.location.origin + "/Revert-Filters/#/config";
                 var payload;
                 window.tableau.extensions.ui.displayDialogAsync(popupUrl, payload, { height: 385, width: 285 }).then(function(closePayload) {
                     console.log('Configure closed.');
