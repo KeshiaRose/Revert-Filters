@@ -25,7 +25,7 @@ body {
     /* height: 800px; */
     margin: 20px;
     display: flex;
-    box-shadow: 2px 4px 8px #b6b6b6;
+    box-shadow: 2px 4px 8px rgba(102, 162, 222, 0.15);
 }
 
 .left {
