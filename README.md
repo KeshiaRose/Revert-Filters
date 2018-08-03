@@ -1,3 +1,5 @@
+>**This version of the extension is for testing. Please go to the [Extension Gallery](https://extensiongallery.tableau.com/products/29) for the latest official version.**
+
 # Revert Filters
 This extension enables you to add a button directly into your dashboard that resets to certain filter settings. Great for embedded dashboards that do not have the toolbar showing or for a more intuitive interface.
 
